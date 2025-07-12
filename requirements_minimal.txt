@@ -10,5 +10,4 @@ ultralytics==8.0.196
 matplotlib==3.7.2
 webcolors==1.13
 torch==2.0.1+cpu
-torchvision==0.15.2+cpu
-segment-anything==1.0 
+torchvision==0.15.2+cpu 
