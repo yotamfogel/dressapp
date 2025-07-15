@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DressApp</string>
+    <!-- Add your Google OAuth 2.0 Client ID here -->
+    <string name="google_oauth_client_id">7542827338-59vslf51o7a1fn99duccghk6ka1cqjuc.apps.googleusercontent.com</string>
+</resources> 
